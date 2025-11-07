@@ -1,6 +1,6 @@
 name = "ReferenceBLAS32_jll"
 uuid = "9e84b91c-71b0-5f24-acdc-49dbe8049396"
-version = "3.12.1+0"
+version = "3.12.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
